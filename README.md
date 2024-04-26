@@ -1,2 +1,2 @@
-# Food-Recommendation-Using-Machine-learning
+# Recipe-Recommendation-Using-Machine-learning
 Food Recommendation Using Machine learning
